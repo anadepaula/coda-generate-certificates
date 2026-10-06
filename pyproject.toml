@@ -7,7 +7,14 @@ authors = [
     { name = "Ana", email = "anaspaula17@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jinja2>=3.1.6",
+    "loguru>=0.7.3",
+    "pandas>=3.0.6",
+    "pypdf>=6.19.0",
+    "unidecode>=1.4.0",
+]
 
 [project.scripts]
 fill-pdf-form = "fill_pdf_form:main"
