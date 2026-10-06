@@ -1,0 +1,17 @@
+[project]
+name = "fill-pdf-form"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Ana", email = "anaspaula17@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+fill-pdf-form = "fill_pdf_form:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
