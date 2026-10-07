@@ -1,2 +1,4 @@
 def main() -> None:
-    print("Hello from fill-pdf-form!")
+    from fill_pdf_form.generator import main as generate_certificates
+
+    generate_certificates()

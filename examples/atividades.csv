@@ -1,0 +1,4 @@
+digitalizado?,slug,FALSE,dia,hora_inicio,sala,id,apresentacao,apresentadoras_pessoas,atividade,hora_termino,tipo_atividade,apresentadoras_grupos,descrição
+TRUE,20261020-TER-09-AB12CD-abertura-do-evento,0,TER,9,101,AB12CD,Lia Exemplo,Lia Exemplo,Cerimônia de Abertura,10,Palestra,Equipe Exemplo,Atividade fictícia usada como exemplo de formato.
+TRUE,20261020-TER-11-EF34GH-oficina-de-dados,1,TER,11,102,EF34GH,Caio Exemplo,"Caio Exemplo, Noa Exemplo",Oficina de Dados,13,Oficina,Grupo Exemplo,Atividade fictícia usada como exemplo de formato.
+TRUE,20261020-TER-14-IJ56KL-roda-de-conversa,0,TER,14,103,IJ56KL,Sam Exemplo,Sam Exemplo,Roda de Conversa,15,Roda de conversa,Equipe Exemplo,Atividade fictícia usada como exemplo de formato.

@@ -1,0 +1,5 @@
+/inputs/
+/generated-certificates/
+src/fill_pdf_form/content.json
+__pycache__/
+*.py[cod]

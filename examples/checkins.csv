@@ -1,0 +1,6 @@
+codigo,nome,email,inscrita,check_in,assinado
+AB12CD,Lia Exemplo,lia.exemplo@example.invalid,TRUE,TRUE,FALSE
+AB12CD,Beto Exemplo,beto.exemplo@example.invalid,TRUE,FALSE,TRUE
+EF34GH,Noa Exemplo,noa.exemplo@example.invalid,TRUE,FALSE,FALSE
+EF34GH,Dani Exemplo,dani.exemplo@example.invalid,TRUE,TRUE,TRUE
+IJ56KL,Sam Exemplo,sam.exemplo@example.invalid,FALSE,FALSE,FALSE
